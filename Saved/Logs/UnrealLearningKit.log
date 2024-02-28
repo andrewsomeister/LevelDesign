@@ -17470,3 +17470,1426 @@ Make sure 'WizardSM_BP_C' has been compiled for  Get Mesh
 [2024.02.27-22.52.52:623][482]SourceControl: Error: error: pathspec 'C:/Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Content/BattleWizardPolyart/Maps/Demo02MP_BuiltData.uasset' did not match any file(s) known to git
 [2024.02.27-22.52.52:623][482]SourceControl: [main a442fb7] Almost Finished Mp2 Part 2 - Having Trouble Recording
 [2024.02.27-22.52.52:623][482]SourceControl:  Date: Thu Feb 15 16:25:16 2024 -0600
+[2024.02.27-22.58.35:104][653]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.568 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3588 files in 5309 folders with total size 152 MiB.
+[2024.02.27-23.17.58:732][142]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2024.02.27-23.17.58:788][142]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12576
+[2024.02.27-23.17.59:798][145]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3160bd35-acff-44b9-a14b-4905b3817f7f}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=942.11
+[2024.02.27-23.17.59:798][145]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.27-23.17.59:801][145]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.27-23.58.35:170][448]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.635 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3588 files in 5309 folders with total size 152 MiB.
+[2024.02.28-00.58.34:707][241]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.171 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3588 files in 5309 folders with total size 152 MiB.
+[2024.02.28-01.58.34:635][ 35]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.099 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3588 files in 5309 folders with total size 152 MiB.
+[2024.02.28-02.58.34:874][830]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.333 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3588 files in 5309 folders with total size 152 MiB.
+[2024.02.28-03.32.16:582][889]LogViewport: Scene viewport resized to 1268x940, mode Windowed.
+[2024.02.28-03.32.17:894][889]LogViewport: Scene viewport resized to 1266x905, mode Windowed.
+[2024.02.28-03.32.54:852][996]LogViewport: Scene viewport resized to 1266x845, mode Windowed.
+[2024.02.28-03.32.55:178][996]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=SAMSUNG (HD Audio Driver for Display Audio), InstanceID=1
+[2024.02.28-03.32.55:603][996]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12576
+[2024.02.28-03.32.55:980][997]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{cf6d56ef-cf2d-4ae6-bd5b-3ab88faca637}, Name=SAMSUNG (HD Audio Driver for Display Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=314.13
+[2024.02.28-03.32.55:980][997]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.28-03.32.56:008][997]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.28-03.58.36:555][615]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.990 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3588 files in 5309 folders with total size 152 MiB.
+[2024.02.28-04.01.45:620][181]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2024.02.28-04.01.46:726][181]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12576
+[2024.02.28-04.01.47:362][183]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3160bd35-acff-44b9-a14b-4905b3817f7f}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=594.99
+[2024.02.28-04.01.47:364][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.28-04.01.47:376][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.28-04.06.01:911][945]LogViewport: Scene viewport resized to 1266x905, mode Windowed.
+[2024.02.28-06.13.09:564][970]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [7595 Seconds] waiting for h/w. InstanceID=1
+[2024.02.28-06.13.14:250][970]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12576
+[2024.02.28-06.13.15:410][970]LogViewport: Scene viewport resized to 1268x940, mode Windowed.
+[2024.02.28-06.13.16:353][971]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3160bd35-acff-44b9-a14b-4905b3817f7f}, Name=Speaker (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1644.26
+[2024.02.28-06.13.16:357][971]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.28-06.13.16:366][971]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.28-06.13.24:641][996]LogViewport: Scene viewport resized to 1268x892, mode Windowed.
+[2024.02.28-06.13.27:147][  3]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (WH-CH700N), InstanceID=1
+[2024.02.28-06.13.27:528][  3]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12576
+[2024.02.28-06.13.28:319][  5]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{c334ce82-d5cc-4813-97f7-0c988367e581}, Name=Headphones (WH-CH700N)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=360.70
+[2024.02.28-06.13.28:319][  5]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.28-06.13.28:331][  5]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.28-07.02.41:546][847]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speaker (Realtek(R) Audio), InstanceID=1
+[2024.02.28-07.02.41:865][848]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12576
+[2024.02.28-07.02.42:222][849]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3160bd35-acff-44b9-a14b-4905b3817f7f}, Name=Speaker (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=330.40
+[2024.02.28-07.02.42:223][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.28-07.02.42:229][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.28-07.05.31:937][359]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.462 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3588 files in 5309 folders with total size 152 MiB.
+[2024.02.28-08.05.31:628][155]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.153 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3588 files in 5309 folders with total size 152 MiB.
+[2024.02.28-09.05.31:654][953]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.179 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3588 files in 5309 folders with total size 152 MiB.
+[2024.02.28-10.05.31:575][750]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.100 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3588 files in 5309 folders with total size 152 MiB.
+[2024.02.28-11.05.31:582][547]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.107 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3588 files in 5309 folders with total size 152 MiB.
+[2024.02.28-12.05.31:582][345]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.106 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3588 files in 5309 folders with total size 152 MiB.
+[2024.02.28-13.05.32:533][145]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.056 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3588 files in 5309 folders with total size 152 MiB.
+[2024.02.28-14.05.31:573][940]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.096 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3588 files in 5309 folders with total size 152 MiB.
+[2024.02.28-15.05.31:633][738]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.155 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3588 files in 5309 folders with total size 152 MiB.
+[2024.02.28-16.05.31:619][535]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.141 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3588 files in 5309 folders with total size 152 MiB.
+[2024.02.28-16.49.15:535][400]LogViewport: Scene viewport resized to 1268x940, mode Windowed.
+[2024.02.28-16.49.17:697][403]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (WH-CH700N), InstanceID=1
+[2024.02.28-16.49.18:030][404]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=12576
+[2024.02.28-16.49.18:697][406]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{c334ce82-d5cc-4813-97f7-0c988367e581}, Name=Headphones (WH-CH700N)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=545.80
+[2024.02.28-16.49.18:699][406]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.28-16.49.18:716][406]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.28-16.49.21:053][413]LogViewport: Scene viewport resized to 1268x892, mode Windowed.
+[2024.02.28-17.05.32:042][317]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.558 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3588 files in 5309 folders with total size 152 MiB.
+[2024.02.28-17.31.13:501][353]LogViewport: Scene viewport resized to 1268x868, mode Windowed.
+[2024.02.28-17.31.14:298][354]LogViewport: Scene viewport resized to 1268x892, mode Windowed.
+[2024.02.28-17.31.37:972][912]Cmd: EDIT COPY
+[2024.02.28-17.31.38:316][923]Cmd: EDIT PASTE
+[2024.02.28-17.31.42:444][ 28]Cmd: EDIT COPY
+[2024.02.28-17.31.47:116][184]Cmd: EDIT COPY
+[2024.02.28-17.31.47:421][193]Cmd: EDIT PASTE
+[2024.02.28-17.31.52:515][349]Cmd: EDIT COPY
+[2024.02.28-17.31.52:811][355]Cmd: EDIT PASTE
+[2024.02.28-17.31.56:043][456]Cmd: EDIT COPY
+[2024.02.28-17.31.56:291][463]Cmd: EDIT PASTE
+[2024.02.28-17.32.20:086][301]Cmd: EDIT COPY
+[2024.02.28-17.32.20:399][311]Cmd: EDIT PASTE
+[2024.02.28-17.32.53:095][411]Cmd: EDIT COPY
+[2024.02.28-17.32.53:371][419]Cmd: EDIT PASTE
+[2024.02.28-17.33.57:361][623]LogUObjectHash: Compacting FUObjectHashTables data took  18.25ms
+[2024.02.28-17.33.57:753][623]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameLevel_Auto0
+[2024.02.28-17.33.57:754][623]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/GameLevel_Auto0AB169FF9462502035630B0BE33307ECF.tmp' to '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/Autosaves/Game/GameLevel_Auto0.umap'
+[2024.02.28-17.33.57:762][623]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/Autosaves/Game/GameLevel_Auto0.umap is in the /Temp path, will not scan.
+[2024.02.28-17.33.57:765][623]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameLevel' took 0.889
+[2024.02.28-17.33.57:765][623]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.889
+[2024.02.28-17.34.29:771][662]Cmd: EDIT COPY
+[2024.02.28-17.34.30:011][671]Cmd: EDIT PASTE
+[2024.02.28-17.35.17:969][283]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Stairs/SM_Kit_Stairs_A.SM_Kit_Stairs_A
+[2024.02.28-17.35.17:969][283]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Stairs/SM_Kit_Stairs_A.SM_Kit_Stairs_A
+[2024.02.28-17.35.17:972][283]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Architecture/Stairs/SM_Kit_Stairs_A.SM_Kit_Stairs_A as actor: StaticMeshActor /Game/GameLevel.GameLevel:PersistentLevel.StaticMeshActor_1206
+[2024.02.28-17.35.23:176][453]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Stairs/SM_Kit_Stairs_A.SM_Kit_Stairs_A
+[2024.02.28-17.35.23:177][453]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Stairs/SM_Kit_Stairs_A.SM_Kit_Stairs_A
+[2024.02.28-17.35.23:181][453]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Architecture/Stairs/SM_Kit_Stairs_A.SM_Kit_Stairs_A as actor: StaticMeshActor /Game/GameLevel.GameLevel:PersistentLevel.StaticMeshActor_1207
+[2024.02.28-17.36.05:134][882]Cmd: EDIT COPY
+[2024.02.28-17.36.05:405][889]Cmd: EDIT PASTE
+[2024.02.28-17.36.45:467][138]Cmd: EDIT COPY
+[2024.02.28-17.36.45:770][145]Cmd: EDIT PASTE
+[2024.02.28-17.37.06:948][796]Cmd: EDIT COPY
+[2024.02.28-17.37.07:186][802]Cmd: EDIT PASTE
+[2024.02.28-17.37.53:315][145]Cmd: EDIT COPY
+[2024.02.28-17.37.53:325][145]LogConsoleManager: Warning: Performance warning: Many (500) failed FindConsoleObject() across all CVars. Fail counts per name:
+[2024.02.28-17.37.53:326][145]LogConsoleManager: Warning:    TestNameB : 2
+[2024.02.28-17.37.53:327][145]LogConsoleManager: Warning:    TestNameD : 2
+[2024.02.28-17.37.53:327][145]LogConsoleManager: Warning:    TestNameE : 2
+[2024.02.28-17.37.53:327][145]LogConsoleManager: Warning:    TestNameA : 2
+[2024.02.28-17.37.53:327][145]LogConsoleManager: Warning:    TestNameC : 1
+[2024.02.28-17.37.53:327][145]LogConsoleManager: Warning:    con.DebugLateDefault : 1
+[2024.02.28-17.37.53:327][145]LogConsoleManager: Warning:    con.DebugLateCheat : 1
+[2024.02.28-17.37.53:327][145]LogConsoleManager: Warning:    LogNamedEventFilters : 1
+[2024.02.28-17.37.53:328][145]LogConsoleManager: Warning:    framepro.ScopeMinTimeMicroseconds : 1
+[2024.02.28-17.37.53:329][145]LogConsoleManager: Warning:    fx.NiagaraAllowRuntimeScalabilityChanges : 1
+[2024.02.28-17.37.53:330][145]LogConsoleManager: Warning:    QualityLevelMapping : 1
+[2024.02.28-17.37.53:330][145]LogConsoleManager: Warning:    r.Occlusion.SingleRHIThreadStall : 1
+[2024.02.28-17.37.53:330][145]LogConsoleManager: Warning:    VisualizeCalibrationColorMaterialPath : 1
+[2024.02.28-17.37.53:330][145]LogConsoleManager: Warning:    VisualizeCalibrationGrayscaleMaterialPath : 1
+[2024.02.28-17.37.53:330][145]LogConsoleManager: Warning:    MaxSkinBones : 1
+[2024.02.28-17.37.53:330][145]LogConsoleManager: Warning:    r.MobileMSAA : 1
+[2024.02.28-17.37.53:330][145]LogConsoleManager: Warning:    r.SupportAtmosphericFog : 1
+[2024.02.28-17.37.53:330][145]LogConsoleManager: Warning:    s.MaxPackageSummarySize : 1
+[2024.02.28-17.37.53:330][145]LogConsoleManager: Warning:    FixedBootOrder : 1
+[2024.02.28-17.37.53:330][145]LogConsoleManager: Warning:    NetworkEmulationProfiles : 1
+[2024.02.28-17.37.53:332][145]LogConsoleManager: Warning:    DefaultASTCQualityBySpeed : 1
+[2024.02.28-17.37.53:332][145]LogConsoleManager: Warning:    DefaultASTCQualityBySize : 1
+[2024.02.28-17.37.53:332][145]LogConsoleManager: Warning:    ClassesExcludedOnDedicatedServer : 1
+[2024.02.28-17.37.53:332][145]LogConsoleManager: Warning:    ClassesExcludedOnDedicatedClient : 1
+[2024.02.28-17.37.53:332][145]LogConsoleManager: Warning:    VersionedIntRValues : 1
+[2024.02.28-17.37.53:332][145]LogConsoleManager: Warning:    r.TSR.Velocity.Extrapolation : 1
+[2024.02.28-17.37.53:332][145]LogConsoleManager: Warning:    fx.Niagara.QualityLevel : 1
+[2024.02.28-17.37.53:332][145]LogConsoleManager: Warning:    vr.HiddenAreaMask : 1
+[2024.02.28-17.37.53:332][145]LogConsoleManager: Warning:    r.BasePassOutputsVelocityDebug : 1
+[2024.02.28-17.37.53:332][145]LogConsoleManager: Warning:    p.MaxPhysicsDeltaTime : 1
+[2024.02.28-17.37.53:332][145]LogConsoleManager: Warning:    ACTOR : 33
+[2024.02.28-17.37.53:332][145]LogConsoleManager: Warning:    MODE : 6
+[2024.02.28-17.37.53:332][145]LogConsoleManager: Warning:    EDIT : 426
+[2024.02.28-17.37.53:332][145]LogConsoleManager: Warning:    git : 1
+[2024.02.28-17.37.53:648][147]Cmd: EDIT PASTE
+[2024.02.28-17.38.30:070][175]Cmd: EDIT COPY
+[2024.02.28-17.38.30:330][181]Cmd: EDIT PASTE
+[2024.02.28-17.38.38:704][430]Cmd: EDIT COPY
+[2024.02.28-17.38.38:951][438]Cmd: EDIT PASTE
+[2024.02.28-17.43.58:157][490]LogUObjectHash: Compacting FUObjectHashTables data took   9.60ms
+[2024.02.28-17.43.58:486][490]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameLevel_Auto1
+[2024.02.28-17.43.58:486][490]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/GameLevel_Auto1D1BE746A4E2CD5BDD0FDC78C395CFE92.tmp' to '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/Autosaves/Game/GameLevel_Auto1.umap'
+[2024.02.28-17.43.58:490][490]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/Autosaves/Game/GameLevel_Auto1.umap is in the /Temp path, will not scan.
+[2024.02.28-17.43.58:491][490]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameLevel' took 0.488
+[2024.02.28-17.43.58:491][490]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.488
+[2024.02.28-17.59.02:315][365]Cmd: EDIT COPY
+[2024.02.28-17.59.02:560][371]Cmd: EDIT PASTE
+[2024.02.28-17.59.15:853][795]Cmd: EDIT COPY
+[2024.02.28-17.59.16:120][801]Cmd: EDIT PASTE
+[2024.02.28-17.59.18:072][852]Cmd: EDIT COPY
+[2024.02.28-17.59.18:318][860]Cmd: EDIT PASTE
+[2024.02.28-17.59.55:087][112]Cmd: EDIT COPY
+[2024.02.28-17.59.55:363][121]Cmd: EDIT PASTE
+[2024.02.28-18.00.51:985][142]Cmd: DELETE
+[2024.02.28-18.00.51:991][142]Cmd: ACTOR DELETE
+[2024.02.28-18.00.52:081][142]LogEditorActor: Actor SM_Kit_Wall_Straight415 is referenced by GroupActor_34.
+[2024.02.28-18.00.56:488][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.00.56:501][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight415 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.00.56:503][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.00.56:526][142]LogEditorActor: Actor SM_Kit_Wall_Straight416 is referenced by GroupActor_34.
+[2024.02.28-18.01.03:774][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.03:787][142]Message dialog closed, result: No, title: Message, text: Actor SM_Kit_Wall_Straight416 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.03:788][142]LogEditorActor: Actor SM_Kit_Wall_Straight417 is referenced by GroupActor_34.
+[2024.02.28-18.01.04:818][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.04:832][142]Message dialog closed, result: No, title: Message, text: Actor SM_Kit_Wall_Straight417 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.04:832][142]LogEditorActor: Actor SM_Kit_Wall_Straight418 is referenced by GroupActor_34.
+[2024.02.28-18.01.06:653][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.06:665][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight418 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.06:672][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.06:672][142]LogEditorActor: Actor SM_Kit_Wall_Straight419 is referenced by GroupActor_34.
+[2024.02.28-18.01.07:170][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.07:184][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight419 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.07:185][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.07:187][142]LogEditorActor: Actor SM_Kit_Wall_Straight420 is referenced by GroupActor_34.
+[2024.02.28-18.01.07:556][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.07:564][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight420 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.07:565][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.07:565][142]LogEditorActor: Actor SM_Kit_Wall_Straight421 is referenced by GroupActor_34.
+[2024.02.28-18.01.07:812][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.07:827][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight421 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.07:828][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.07:828][142]LogEditorActor: Actor SM_Kit_Wall_Straight422 is referenced by GroupActor_34.
+[2024.02.28-18.01.08:033][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.08:045][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight422 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.08:047][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.08:049][142]LogEditorActor: Actor SM_Kit_Wall_Straight423 is referenced by GroupActor_34.
+[2024.02.28-18.01.08:257][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.08:268][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight423 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.08:269][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.08:270][142]LogEditorActor: Actor SM_Kit_Wall_Straight424 is referenced by GroupActor_34.
+[2024.02.28-18.01.08:520][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.08:534][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight424 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.08:535][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.08:536][142]LogEditorActor: Actor SM_Kit_Wall_Straight425 is referenced by GroupActor_34.
+[2024.02.28-18.01.08:815][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.08:826][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight425 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.08:827][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.08:828][142]LogEditorActor: Actor SM_Kit_Wall_Straight426 is referenced by GroupActor_34.
+[2024.02.28-18.01.09:218][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.09:229][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight426 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.09:230][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.09:231][142]LogEditorActor: Actor SM_Kit_Wall_Straight427 is referenced by GroupActor_34.
+[2024.02.28-18.01.09:619][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.09:632][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight427 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.09:633][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.09:634][142]LogEditorActor: Actor SM_Kit_Wall_Straight428 is referenced by GroupActor_34.
+[2024.02.28-18.01.10:076][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.10:094][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight428 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.10:095][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.10:096][142]LogEditorActor: Actor SM_Kit_Wall_Straight429 is referenced by GroupActor_34.
+[2024.02.28-18.01.10:540][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.10:550][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight429 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.10:550][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.10:551][142]LogEditorActor: Actor SM_Kit_Wall_Straight430 is referenced by GroupActor_34.
+[2024.02.28-18.01.11:012][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.11:024][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight430 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.11:025][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.11:026][142]LogEditorActor: Actor SM_Kit_Wall_Straight431 is referenced by GroupActor_34.
+[2024.02.28-18.01.11:449][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.11:459][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight431 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.11:460][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.11:461][142]LogEditorActor: Actor SM_Kit_Wall_Straight432 is referenced by GroupActor_34.
+[2024.02.28-18.01.11:857][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.11:867][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight432 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.11:868][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.11:868][142]LogEditorActor: Actor SM_Kit_Wall_Straight433 is referenced by GroupActor_34.
+[2024.02.28-18.01.12:278][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.12:291][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight433 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.12:293][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.12:294][142]LogEditorActor: Actor SM_Kit_Wall_Straight434 is referenced by GroupActor_34.
+[2024.02.28-18.01.12:669][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.12:683][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight434 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.12:685][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.12:685][142]LogEditorActor: Actor SM_Kit_Wall_Straight435 is referenced by GroupActor_34.
+[2024.02.28-18.01.13:068][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.13:083][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight435 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.13:084][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.13:084][142]LogEditorActor: Actor SM_Kit_Wall_Straight436 is referenced by GroupActor_34.
+[2024.02.28-18.01.13:572][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.13:586][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight436 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.13:587][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.13:587][142]LogEditorActor: Actor SM_Kit_Wall_Straight437 is referenced by GroupActor_34.
+[2024.02.28-18.01.13:954][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.13:967][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight437 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.13:967][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.13:969][142]LogEditorActor: Actor SM_Kit_Wall_Straight438 is referenced by GroupActor_34.
+[2024.02.28-18.01.14:340][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.14:358][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight438 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.14:360][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.14:360][142]LogEditorActor: Actor SM_Kit_Wall_Straight439 is referenced by GroupActor_34.
+[2024.02.28-18.01.14:731][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.14:741][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight439 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.14:742][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.14:743][142]LogEditorActor: Actor SM_Kit_Wall_Straight440 is referenced by GroupActor_34.
+[2024.02.28-18.01.15:538][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.15:548][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight440 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.15:549][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.15:550][142]LogEditorActor: Actor SM_Kit_Wall_Straight441 is referenced by GroupActor_34.
+[2024.02.28-18.01.15:785][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.15:796][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight441 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.15:797][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.15:797][142]LogEditorActor: Actor SM_Kit_Wall_Straight442 is referenced by GroupActor_34.
+[2024.02.28-18.01.16:017][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.16:028][142]Message dialog closed, result: Yes, title: Message, text: Actor SM_Kit_Wall_Straight442 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.16:030][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.16:031][142]LogEditorActor: Actor SM_Kit_Wall_Straight443 is referenced by GroupActor_34.
+[2024.02.28-18.01.17:870][142]LogSlate: Window 'Message' being destroyed
+[2024.02.28-18.01.17:884][142]Message dialog closed, result: YesAll, title: Message, text: Actor SM_Kit_Wall_Straight443 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor_34
+[2024.02.28-18.01.17:884][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.17:884][142]LogEditorActor: Actor SM_Kit_Wall_Straight444 is referenced by GroupActor_34.
+[2024.02.28-18.01.17:885][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.17:885][142]LogEditorActor: Actor SM_Kit_Wall_Straight445 is referenced by GroupActor_34.
+[2024.02.28-18.01.17:886][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.17:886][142]LogEditorActor: Actor SM_Kit_Wall_Straight446 is referenced by GroupActor_34.
+[2024.02.28-18.01.17:887][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.17:888][142]LogEditorActor: Actor SM_Kit_Wall_Straight447 is referenced by GroupActor_34.
+[2024.02.28-18.01.17:889][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.17:889][142]LogEditorActor: Actor SM_Kit_Wall_Straight448 is referenced by GroupActor_34.
+[2024.02.28-18.01.17:890][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.17:891][142]LogEditorActor: Actor SM_Kit_Wall_Straight449 is referenced by GroupActor_34.
+[2024.02.28-18.01.17:892][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.17:893][142]LogEditorActor: Actor SM_Kit_Wall_Straight450 is referenced by GroupActor_34.
+[2024.02.28-18.01.17:894][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.01.18:402][142]LogUObjectHash: Compacting FUObjectHashTables data took  16.91ms
+[2024.02.28-18.01.18:574][142]LogEditorActor: Deleted 34 Actors (0.851 secs)
+[2024.02.28-18.01.25:258][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.28-18.01.25:621][340]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameLevel_Auto2
+[2024.02.28-18.01.25:622][340]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/GameLevel_Auto26F5B87DD477957AF1BF2B899925C09B7.tmp' to '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/Autosaves/Game/GameLevel_Auto2.umap'
+[2024.02.28-18.01.25:642][340]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/Autosaves/Game/GameLevel_Auto2.umap is in the /Temp path, will not scan.
+[2024.02.28-18.01.25:646][340]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameLevel' took 0.447
+[2024.02.28-18.01.25:646][340]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.447
+[2024.02.28-18.01.29:028][457]Cmd: EDIT COPY
+[2024.02.28-18.01.29:264][464]Cmd: EDIT PASTE
+[2024.02.28-18.01.32:285][563]Cmd: EDIT COPY
+[2024.02.28-18.01.32:507][571]Cmd: EDIT PASTE
+[2024.02.28-18.01.34:416][633]Cmd: EDIT COPY
+[2024.02.28-18.01.34:657][642]Cmd: EDIT PASTE
+[2024.02.28-18.01.36:247][688]Cmd: EDIT COPY
+[2024.02.28-18.01.36:462][695]Cmd: EDIT PASTE
+[2024.02.28-18.01.39:100][783]Cmd: EDIT COPY
+[2024.02.28-18.01.39:314][790]Cmd: EDIT PASTE
+[2024.02.28-18.01.43:299][929]Cmd: EDIT COPY
+[2024.02.28-18.01.43:580][938]Cmd: EDIT PASTE
+[2024.02.28-18.01.46:262][ 26]Cmd: EDIT COPY
+[2024.02.28-18.01.46:525][ 35]Cmd: EDIT PASTE
+[2024.02.28-18.02.11:570][905]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Stairs/SM_Kit_Stairs_B.SM_Kit_Stairs_B
+[2024.02.28-18.02.11:570][905]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Stairs/SM_Kit_Stairs_B.SM_Kit_Stairs_B
+[2024.02.28-18.02.11:573][905]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Architecture/Stairs/SM_Kit_Stairs_B.SM_Kit_Stairs_B as actor: StaticMeshActor /Game/GameLevel.GameLevel:PersistentLevel.StaticMeshActor_1260
+[2024.02.28-18.02.13:643][971]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Stairs/SM_Kit_Stairs_B.SM_Kit_Stairs_B
+[2024.02.28-18.02.13:643][971]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Stairs/SM_Kit_Stairs_B.SM_Kit_Stairs_B
+[2024.02.28-18.02.13:647][971]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Architecture/Stairs/SM_Kit_Stairs_B.SM_Kit_Stairs_B as actor: StaticMeshActor /Game/GameLevel.GameLevel:PersistentLevel.StaticMeshActor_1261
+[2024.02.28-18.02.41:897][926]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Roofs/SM_Kit_Roof_Straight.SM_Kit_Roof_Straight
+[2024.02.28-18.02.41:899][926]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Roofs/SM_Kit_Roof_Straight.SM_Kit_Roof_Straight
+[2024.02.28-18.02.41:900][926]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Architecture/Roofs/SM_Kit_Roof_Straight.SM_Kit_Roof_Straight as actor: StaticMeshActor /Game/GameLevel.GameLevel:PersistentLevel.StaticMeshActor_1262
+[2024.02.28-18.02.46:891][ 74]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Roofs/SM_Kit_Roof_Straight.SM_Kit_Roof_Straight
+[2024.02.28-18.02.46:891][ 74]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/Roofs/SM_Kit_Roof_Straight.SM_Kit_Roof_Straight
+[2024.02.28-18.02.46:904][ 74]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Architecture/Roofs/SM_Kit_Roof_Straight.SM_Kit_Roof_Straight as actor: StaticMeshActor /Game/GameLevel.GameLevel:PersistentLevel.StaticMeshActor_1263
+[2024.02.28-18.02.49:448][157]Cmd: DELETE
+[2024.02.28-18.02.49:449][157]Cmd: ACTOR DELETE
+[2024.02.28-18.02.49:501][157]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.02.49:564][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.02.28-18.02.49:574][157]LogEditorActor: Deleted 1 Actors (0.124 secs)
+[2024.02.28-18.03.01:554][510]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_WallDiagonal.SM_KitCottage_WallDiagonal
+[2024.02.28-18.03.01:555][510]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_WallDiagonal.SM_KitCottage_WallDiagonal
+[2024.02.28-18.03.01:557][510]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_WallDiagonal.SM_KitCottage_WallDiagonal as actor: StaticMeshActor /Game/GameLevel.GameLevel:PersistentLevel.StaticMeshActor_1264
+[2024.02.28-18.03.01:580][510]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_WallDiagonal) ...
+[2024.02.28-18.03.01:871][510]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Stucco_ARM.T_EnvTile_Stucco_ARM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.02.28-18.03.03:154][510]LogStaticMesh: Display: Building static mesh SM_KitCottage_WallDiagonal...
+[2024.02.28-18.03.03:192][510]LogStaticMesh: Adjacency [0.00s], tris: 8, UVs 2
+[2024.02.28-18.03.03:192][510]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2024.02.28-18.03.03:192][510]LogStaticMesh: Leaves [0.00s]
+[2024.02.28-18.03.03:192][510]LogStaticMesh: Reduce [0.00s]
+[2024.02.28-18.03.03:196][510]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 8
+[2024.02.28-18.03.03:198][510]LogStaticMesh: ConstrainClusters:
+[2024.02.28-18.03.03:198][510]LogStaticMesh:   Input: 1 Clusters, 8 Triangles and 18 Vertices
+[2024.02.28-18.03.03:198][510]LogStaticMesh:   Output without splits: 1 Clusters, 8 Triangles and 18 Vertices
+[2024.02.28-18.03.03:198][510]LogStaticMesh:   Output with splits: 1 Clusters, 8 Triangles and 18 Vertices
+[2024.02.28-18.03.03:198][510]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2024.02.28-18.03.03:200][510]LogStaticMesh: WritePages:
+[2024.02.28-18.03.03:200][510]LogStaticMesh:   Root: GPU size: 436 bytes. 1 Pages. 436.000 bytes per page (1.331% utilization).
+[2024.02.28-18.03.03:200][510]LogStaticMesh:   Streaming: 0 bytes.
+[2024.02.28-18.03.03:200][510]LogStaticMesh:   Page data disk size: 596 bytes. Fixup data size: 24 bytes.
+[2024.02.28-18.03.03:200][510]LogStaticMesh:   Total GPU size: 436 bytes, Total disk size: 620 bytes.
+[2024.02.28-18.03.03:200][510]LogStaticMesh: Encode [0.00s]
+[2024.02.28-18.03.03:200][510]LogStaticMesh: Nanite build [0.01s]
+
+[2024.02.28-18.03.03:210][510]LogStaticMesh: Built static mesh [0.08s] /Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_WallDiagonal.SM_KitCottage_WallDiagonal
+[2024.02.28-18.03.03:900][513]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Stucco_BC.T_EnvTile_Stucco_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.02.28-18.03.05:566][564]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Stucco_N.T_EnvTile_Stucco_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.02.28-18.03.06:306][565]LogTexture: Display: Building textures: /Game/LearningKit_Games/MaterialLibrary/Tileable/T_EnvTile_Stucco_RGB.T_EnvTile_Stucco_RGB (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.02.28-18.03.07:793][590]Cmd: TRANSACTION UNDO
+[2024.02.28-18.03.07:795][590]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.28-18.03.08:482][594]LogShaderCompilers: Display: ================================================
+[2024.02.28-18.03.08:482][594]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.28-18.03.08:482][594]LogShaderCompilers: Display: Total job queries 276, among them cache hits 52 (18.84%)
+[2024.02.28-18.03.08:482][594]LogShaderCompilers: Display: Tracking 171 distinct input hashes that result in 93 distinct outputs (54.39%)
+[2024.02.28-18.03.08:482][594]LogShaderCompilers: Display: RAM used: 358.47 KiB of 819.20 MiB budget. Usage: 0.04%
+[2024.02.28-18.03.08:482][594]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.28-18.03.08:482][594]LogShaderCompilers: Display: Shaders Compiled: 171
+[2024.02.28-18.03.08:482][594]LogShaderCompilers: Display: Jobs assigned 174, completed 171 (98.28%)
+[2024.02.28-18.03.08:482][594]LogShaderCompilers: Display: Average time worker was idle: 5646.64 s
+[2024.02.28-18.03.08:482][594]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 1.20 s
+[2024.02.28-18.03.08:482][594]LogShaderCompilers: Display: Job execution time: average 1.65 s, max 6.97 s
+[2024.02.28-18.03.08:482][594]LogShaderCompilers: Display: Job life time (pending + execution): average 1.78 s, max 7.04
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display: Shader code size: average 4.271 KiB, min 432 B, max 12.5 KiB
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 67.12 s
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display: Jobs were issued in 169 batches (only local compilation was used), average 1.03 jobs/batch
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display: Average processing rate: 2.55 jobs/sec
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display: Total thread time: 171.602 s
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display: Total thread preprocess time: 38.24 s
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display: Percentage time preprocessing: 22.28%
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display: Effective parallelization: 2.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   26 times, average 1.29 sec, max 3.54 sec, min 0.50 sec)
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 1.18 sec, max 1.18 sec, min 1.18 sec)
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   44 times, average 1.16 sec, max 3.47 sec, min 0.40 sec)
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.03 sec, max 1.11 sec, min 0.94 sec)
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   43 times, average 1.01 sec, max 4.03 sec, min 0.32 sec)
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 29.71% of total time (compiled   44 times, average 1.16 sec, max 3.47 sec, min 0.40 sec)
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.29% of total time (compiled   43 times, average 1.01 sec, max 4.03 sec, min 0.32 sec)
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.50% of total time (compiled   26 times, average 1.29 sec, max 3.54 sec, min 0.50 sec)
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.17% of total time (compiled   27 times, average 0.71 sec, max 2.54 sec, min 0.18 sec)
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display:                                             FDebugViewModePS - 3.97% of total time (compiled    7 times, average 0.97 sec, max 1.93 sec, min 0.32 sec)
+[2024.02.28-18.03.08:484][594]LogShaderCompilers: Display: ================================================
+[2024.02.28-18.03.09:077][613]Cmd: TRANSACTION UNDO
+[2024.02.28-18.03.09:079][613]LogEditorTransaction: Undo Delete Elements
+[2024.02.28-18.03.12:493][689]Cmd: TRANSACTION UNDO
+[2024.02.28-18.03.12:493][689]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.28-18.03.15:731][767]Cmd: TRANSACTION UNDO
+[2024.02.28-18.03.15:731][767]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.28-18.03.16:947][800]Cmd: TRANSACTION UNDO
+[2024.02.28-18.03.16:947][800]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.28-18.03.30:404][220]Cmd: TRANSACTION UNDO
+[2024.02.28-18.03.30:404][220]LogEditorTransaction: Undo Clicking on Elements
+[2024.02.28-18.03.32:848][290]Cmd: DELETE
+[2024.02.28-18.03.32:849][290]Cmd: ACTOR DELETE
+[2024.02.28-18.03.32:978][290]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-18.03.33:390][290]LogUObjectHash: Compacting FUObjectHashTables data took  10.03ms
+[2024.02.28-18.03.33:407][290]LogEditorActor: Deleted 1 Actors (0.515 secs)
+[2024.02.28-18.04.21:822][805]LogStaticMesh: Display: Building static mesh SM_KitCottage_Pillar...
+[2024.02.28-18.04.21:833][805]LogStaticMesh: Adjacency [0.00s], tris: 60, UVs 2
+[2024.02.28-18.04.21:834][805]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2024.02.28-18.04.21:835][805]LogStaticMesh: Leaves [0.00s]
+[2024.02.28-18.04.21:835][805]LogStaticMesh: Reduce [0.00s]
+[2024.02.28-18.04.21:836][805]LogStaticMesh: Fallback 0/1 [0.00s], num tris: 60
+[2024.02.28-18.04.21:837][805]LogStaticMesh: ConstrainClusters:
+[2024.02.28-18.04.21:837][805]LogStaticMesh:   Input: 1 Clusters, 60 Triangles and 66 Vertices
+[2024.02.28-18.04.21:837][805]LogStaticMesh:   Output without splits: 1 Clusters, 60 Triangles and 66 Vertices
+[2024.02.28-18.04.21:837][805]LogStaticMesh:   Output with splits: 1 Clusters, 60 Triangles and 66 Vertices
+[2024.02.28-18.04.21:837][805]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2024.02.28-18.04.21:837][805]LogStaticMesh: WritePages:
+[2024.02.28-18.04.21:837][805]LogStaticMesh:   Root: GPU size: 1176 bytes. 1 Pages. 1176.000 bytes per page (3.589% utilization).
+[2024.02.28-18.04.21:837][805]LogStaticMesh:   Streaming: 0 bytes.
+[2024.02.28-18.04.21:837][805]LogStaticMesh:   Page data disk size: 1268 bytes. Fixup data size: 24 bytes.
+[2024.02.28-18.04.21:837][805]LogStaticMesh:   Total GPU size: 1176 bytes, Total disk size: 1292 bytes.
+[2024.02.28-18.04.21:837][805]LogStaticMesh: Encode [0.00s]
+[2024.02.28-18.04.21:837][805]LogStaticMesh: Nanite build [0.00s]
+
+[2024.02.28-18.04.21:842][805]LogStaticMesh: Built static mesh [0.02s] /Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_Pillar.SM_KitCottage_Pillar
+[2024.02.28-18.04.22:441][819]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_Pillar.SM_KitCottage_Pillar
+[2024.02.28-18.04.22:442][819]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_Pillar.SM_KitCottage_Pillar
+[2024.02.28-18.04.22:453][819]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_Pillar.SM_KitCottage_Pillar as actor: StaticMeshActor /Game/GameLevel.GameLevel:PersistentLevel.StaticMeshActor_1265
+[2024.02.28-18.04.23:890][864]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_Pillar.SM_KitCottage_Pillar
+[2024.02.28-18.04.23:890][864]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_Pillar.SM_KitCottage_Pillar
+[2024.02.28-18.04.23:898][864]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_Pillar.SM_KitCottage_Pillar as actor: StaticMeshActor /Game/GameLevel.GameLevel:PersistentLevel.StaticMeshActor_1266
+[2024.02.28-18.04.46:565][563]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_WallDiagonal.SM_KitCottage_WallDiagonal
+[2024.02.28-18.04.46:565][563]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_WallDiagonal.SM_KitCottage_WallDiagonal
+[2024.02.28-18.04.46:567][563]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_WallDiagonal.SM_KitCottage_WallDiagonal as actor: StaticMeshActor /Game/GameLevel.GameLevel:PersistentLevel.StaticMeshActor_1267
+[2024.02.28-18.04.47:192][581]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_WallDiagonal.SM_KitCottage_WallDiagonal
+[2024.02.28-18.04.47:192][581]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_WallDiagonal.SM_KitCottage_WallDiagonal
+[2024.02.28-18.04.47:196][581]LogActorFactory: Actor Factory spawned StaticMesh /Game/LearningKit_Games/Assets/Architecture/KitCottage/SM_KitCottage_WallDiagonal.SM_KitCottage_WallDiagonal as actor: StaticMeshActor /Game/GameLevel.GameLevel:PersistentLevel.StaticMeshActor_1268
+[2024.02.28-18.05.34:058][ 20]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.571 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3642 files in 5373 folders with total size 161 MiB.
+[2024.02.28-18.06.40:961][869]Cmd: EDIT COPY
+[2024.02.28-18.06.41:218][875]Cmd: EDIT PASTE
+[2024.02.28-18.06.47:332][ 44]Cmd: EDIT COPY
+[2024.02.28-18.06.47:607][ 53]Cmd: EDIT PASTE
+[2024.02.28-18.07.20:008][990]Cmd: EDIT COPY
+[2024.02.28-18.07.20:262][995]Cmd: EDIT PASTE
+[2024.02.28-18.07.20:937][  6]Cmd: EDIT PASTE
+[2024.02.28-18.07.46:145][674]Cmd: EDIT COPY
+[2024.02.28-18.07.46:587][682]Cmd: EDIT PASTE
+[2024.02.28-18.07.48:739][735]Cmd: EDIT COPY
+[2024.02.28-18.07.49:054][745]Cmd: EDIT PASTE
+[2024.02.28-18.11.26:335][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2024.02.28-18.11.26:690][397]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameLevel_Auto3
+[2024.02.28-18.11.26:692][397]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/GameLevel_Auto38178451A45958195D2B6ADA0E8D4BDE1.tmp' to '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/Autosaves/Game/GameLevel_Auto3.umap'
+[2024.02.28-18.11.26:707][397]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/Autosaves/Game/GameLevel_Auto3.umap is in the /Temp path, will not scan.
+[2024.02.28-18.11.26:710][397]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameLevel' took 0.652
+[2024.02.28-18.11.26:710][397]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.652
+[2024.02.28-18.26.42:759][771]LogUObjectHash: Compacting FUObjectHashTables data took  10.58ms
+[2024.02.28-18.26.42:772][771]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameLevel' took 0.379
+[2024.02.28-18.26.42:782][771]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter] ([2] browsable assets)...
+[2024.02.28-18.26.42:812][771]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter]
+[2024.02.28-18.26.42:812][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter]
+[2024.02.28-18.26.42:919][771]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter_Auto4
+[2024.02.28-18.26.42:920][771]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/BP_LearningKit_PlayerCharacter_A743995B649DFB3CF1449F08FF9D1D503.tmp' to '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/Autosaves/Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter_Auto4.uasset'
+[2024.02.28-18.26.42:925][771]LogFileHelpers: Auto-saving content packages took 0.150
+[2024.02.28-18.28.14:977][676]LogEditorClassViewer: Warning: Class /Game/LearningKit_Robots/ReadMe.ReadMe_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.28-18.30.11:647][253]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2024.02.28-18.30.12:104][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2024.02.28-18.30.12:876][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.28-18.30.13:051][253]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.02.28-18.30.13:052][253]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/BP_LearningKit_PlayerCharacterA16236A048A2F09EDEF22C9A60CD891B.tmp' to '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.02.28-18.30.13:078][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 22.3 sec)
+[2024.02.28-18.30.13:101][253]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2024.02.28-18.30.13:101][253]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.02.28-18.30.16:769][360]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.28-18.30.16:846][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.28-18.30.16:860][360]PIE: New page: PIE session: GameLevel (Feb 28, 2024, 6:30:16 AM)
+[2024.02.28-18.30.16:880][360]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameLevel
+[2024.02.28-18.30.17:086][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.204546s)
+[2024.02.28-18.30.17:086][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevel.GameLevel to /Game/UEDPIE_0_GameLevel.GameLevel (0.205808s)
+[2024.02.28-18.30.17:141][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.02.28-18.30.17:166][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-18.30.17:185][360]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.28-18.30.17:207][360]LogAIModule: Creating AISystem for world GameLevel
+[2024.02.28-18.30.17:225][360]LogPlayLevel: PIE: World Init took: (0.071404s)
+[2024.02.28-18.30.17:231][360]LogAudio: Display: Creating Audio Device:                 Id: 113, Scope: Unique, Realtime: True
+[2024.02.28-18.30.17:233][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.28-18.30.17:233][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.28-18.30.17:233][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.28-18.30.17:234][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.28-18.30.17:234][360]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.28-18.30.17:234][360]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.28-18.30.17:234][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.28-18.30.17:234][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.28-18.30.17:242][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.28-18.30.17:242][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.28-18.30.17:242][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.28-18.30.17:257][360]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.28-18.30.17:416][360]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH700N)
+[2024.02.28-18.30.17:425][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.28-18.30.17:425][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.28-18.30.17:426][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.28-18.30.17:431][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=113
+[2024.02.28-18.30.17:431][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=113
+[2024.02.28-18.30.17:436][360]LogInit: FAudioDevice initialized with ID 113.
+[2024.02.28-18.30.17:436][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=113
+[2024.02.28-18.30.17:436][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=113
+[2024.02.28-18.30.17:437][360]LogAudio: Display: Audio Device (ID: 113) registered with world 'GameLevel'.
+[2024.02.28-18.30.17:437][360]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 113
+[2024.02.28-18.30.17:481][360]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.28-18.30.17:572][360]LogWorld: Bringing World /Game/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2024.02.28-12.30.17
+[2024.02.28-18.30.17:594][360]LogWorld: Bringing up level for play took: 0.110872
+[2024.02.28-18.30.17:617][360]LogOnline: OSS: Created online subsystem instance for: :Context_167
+[2024.02.28-18.30.17:685][360]PIE: Server logged in
+[2024.02.28-18.30.17:687][360]PIE: Play in editor total start time 0.857 seconds.
+[2024.02.28-18.30.17:832][361]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.083178 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.02.28-18.30.18:321][362]LogViewport: Scene viewport resized to 1582x892, mode Windowed.
+[2024.02.28-18.30.23:372][502]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_5] Collectable
+[2024.02.28-18.30.25:261][555]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_4] Collectable
+[2024.02.28-18.30.34:603][849]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.28-18.30.34:603][849]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.28-18.30.34:828][856]LogScript: Warning: Script Msg: The widget 'Restart_Widget_C_0' was already added to the screen.
+[2024.02.28-18.30.34:828][856]LogScript: Warning: Script Msg called by: BP_LearningKit_PlayerCharacter_C /Game/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_LearningKit_PlayerCharacter_C_0
+[2024.02.28-18.30.34:834][856]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_0 via property Music, but AudioComponent_0 is not valid (pending kill or garbage)". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.30.35:028][862]LogScript: Warning: Script Msg: The widget 'Restart_Widget_C_0' was already added to the screen.
+[2024.02.28-18.30.35:028][862]LogScript: Warning: Script Msg called by: BP_LearningKit_PlayerCharacter_C /Game/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_LearningKit_PlayerCharacter_C_0
+[2024.02.28-18.30.35:028][862]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_0 via property Music, but AudioComponent_0 is not valid (pending kill or garbage)". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.30.35:069][863]LogScript: Warning: Script Msg: The widget 'Restart_Widget_C_0' was already added to the screen.
+[2024.02.28-18.30.35:069][863]LogScript: Warning: Script Msg called by: BP_LearningKit_PlayerCharacter_C /Game/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_LearningKit_PlayerCharacter_C_0
+[2024.02.28-18.30.35:069][863]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_0 via property Music, but AudioComponent_0 is not valid (pending kill or garbage)". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.30.35:107][864]LogScript: Warning: Script Msg: The widget 'Restart_Widget_C_0' was already added to the screen.
+[2024.02.28-18.30.35:108][864]LogScript: Warning: Script Msg called by: BP_LearningKit_PlayerCharacter_C /Game/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_LearningKit_PlayerCharacter_C_0
+[2024.02.28-18.30.35:108][864]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_0 via property Music, but AudioComponent_0 is not valid (pending kill or garbage)". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.30.35:949][890]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_2] Power Up
+[2024.02.28-18.30.39:776][ 13]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.28-18.30.39:776][ 13]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.28-18.30.47:862][247]LogCharacterMovement: BP_Pursuer_C_1 is stuck and failed to move! Velocity: X=88.91 Y=8.75 Z=0.00 Location: X=1313.52 Y=2875.88 Z=102.96 Normal: X=-0.38 Y=0.93 Z=0.00 PenetrationDepth:0.157 Actor:WizardSM_BP_C_397 Component:MagicStaff BoneName:None (0 other events since notify)
+[2024.02.28-18.30.51:569][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-18.30.51:569][360]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameLevel
+[2024.02.28-18.30.51:578][360]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.28-18.30.51:602][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-18.30.51:693][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.28-18.30.51:720][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-18.30.51:841][360]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.28-18.30.51:846][360]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 113
+[2024.02.28-18.30.51:848][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=113
+[2024.02.28-18.30.51:854][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=113
+[2024.02.28-18.30.51:896][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-18.30.51:981][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2024.02.28-18.30.52:424][361]LogPlayLevel: Display: Destroying online subsystem :Context_167
+[2024.02.28-18.30.57:598][492]LogSlate: Window 'Message Log' being destroyed
+[2024.02.28-18.30.57:663][492]LogSlate: Window 'Message Log' being destroyed
+[2024.02.28-18.33.21:624][ 89]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2024.02.28-18.33.21:975][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2024.02.28-18.33.22:901][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.28-18.33.23:050][ 89]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.02.28-18.33.23:051][ 89]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/BP_LearningKit_PlayerCharacter4648EA6F4B55E5971ACE4F89C9BD1C6E.tmp' to '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.02.28-18.33.23:070][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 22.4 sec)
+[2024.02.28-18.33.23:077][ 89]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2024.02.28-18.33.23:077][ 89]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.02.28-18.33.25:864][164]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.28-18.33.25:884][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.28-18.33.25:885][164]PIE: New page: PIE session: GameLevel (Feb 28, 2024, 6:33:25 AM)
+[2024.02.28-18.33.25:887][164]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameLevel
+[2024.02.28-18.33.26:054][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166159s)
+[2024.02.28-18.33.26:054][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevel.GameLevel to /Game/UEDPIE_0_GameLevel.GameLevel (0.166370s)
+[2024.02.28-18.33.26:116][164]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2024.02.28-18.33.26:127][164]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-18.33.26:127][164]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.28-18.33.26:128][164]LogAIModule: Creating AISystem for world GameLevel
+[2024.02.28-18.33.26:129][164]LogPlayLevel: PIE: World Init took: (0.002484s)
+[2024.02.28-18.33.26:130][164]LogAudio: Display: Creating Audio Device:                 Id: 114, Scope: Unique, Realtime: True
+[2024.02.28-18.33.26:130][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.28-18.33.26:130][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.28-18.33.26:130][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.28-18.33.26:130][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.28-18.33.26:130][164]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.28-18.33.26:131][164]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.28-18.33.26:131][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.28-18.33.26:131][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.28-18.33.26:132][164]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.28-18.33.26:132][164]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.28-18.33.26:132][164]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.28-18.33.26:138][164]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.28-18.33.26:326][164]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH700N)
+[2024.02.28-18.33.26:327][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.28-18.33.26:327][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.28-18.33.26:327][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.28-18.33.26:328][164]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=114
+[2024.02.28-18.33.26:328][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=114
+[2024.02.28-18.33.26:332][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=114
+[2024.02.28-18.33.26:332][164]LogInit: FAudioDevice initialized with ID 114.
+[2024.02.28-18.33.26:332][164]LogAudio: Display: Audio Device (ID: 114) registered with world 'GameLevel'.
+[2024.02.28-18.33.26:332][164]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 114
+[2024.02.28-18.33.26:332][164]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=114
+[2024.02.28-18.33.26:347][164]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.28-18.33.26:437][164]LogWorld: Bringing World /Game/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2024.02.28-12.33.26
+[2024.02.28-18.33.26:443][164]LogWorld: Bringing up level for play took: 0.095241
+[2024.02.28-18.33.26:449][164]LogOnline: OSS: Created online subsystem instance for: :Context_168
+[2024.02.28-18.33.26:461][164]PIE: Server logged in
+[2024.02.28-18.33.26:462][164]PIE: Play in editor total start time 0.58 seconds.
+[2024.02.28-18.33.26:516][165]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.085191 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.02.28-18.33.31:183][301]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_5] Collectable
+[2024.02.28-18.33.31:873][323]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_4] Collectable
+[2024.02.28-18.33.36:139][460]LogCharacterMovement: BP_Pursuer_C_1 is stuck and failed to move! Velocity: X=-413.94 Y=-434.35 Z=0.00 Location: X=1423.07 Y=2961.46 Z=103.93 Normal: X=0.98 Y=0.18 Z=0.00 PenetrationDepth:4.074 Actor:WizardSM_BP_C_397 Component:SkeletalMeshComponent0 BoneName:upperarm_l (0 other events since notify)
+[2024.02.28-18.33.36:242][462]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_0] Power Up
+[2024.02.28-18.33.39:748][570]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_1] Power Up
+[2024.02.28-18.33.42:478][649]LogCharacterMovement: BP_Pursuer_C_1 is stuck and failed to move! Velocity: X=-377.93 Y=-155.11 Z=0.00 Location: X=1430.51 Y=2911.26 Z=103.80 Normal: X=-0.15 Y=0.99 Z=-0.00 PenetrationDepth:0.158 Actor:WizardSM_BP_C_397 Component:MagicStaff BoneName:None (1 other events since notify)
+[2024.02.28-18.33.45:840][752]LogCharacterMovement: BP_Pursuer_C_1 is stuck and failed to move! Velocity: X=-80.93 Y=-24.40 Z=0.00 Location: X=1439.36 Y=2906.47 Z=103.68 Normal: X=0.73 Y=0.69 Z=-0.00 PenetrationDepth:0.292 Actor:WizardSM_BP_C_397 Component:SkeletalMeshComponent0 BoneName:upperarm_r (0 other events since notify)
+[2024.02.28-18.33.48:076][823]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_2] Power Up
+[2024.02.28-18.33.56:845][ 87]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_1] Collectable
+[2024.02.28-18.33.59:262][164]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_2] Collectable
+[2024.02.28-18.34.04:760][326]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_7] Collectable
+[2024.02.28-18.34.09:122][448]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_9] Collectable
+[2024.02.28-18.34.15:450][642]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_13] Collectable
+[2024.02.28-18.34.25:462][932]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_5] Power Up
+[2024.02.28-18.34.26:068][948]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_4] Power Up
+[2024.02.28-18.34.26:069][948]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_7] Power Up
+[2024.02.28-18.34.26:492][960]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_3] Power Up
+[2024.02.28-18.34.45:545][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-18.34.45:545][440]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameLevel
+[2024.02.28-18.34.45:546][440]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.28-18.34.45:562][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-18.34.45:588][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.28-18.34.45:601][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-18.34.45:667][440]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.28-18.34.45:668][440]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 114
+[2024.02.28-18.34.45:668][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=114
+[2024.02.28-18.34.45:672][440]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=114
+[2024.02.28-18.34.45:684][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-18.34.45:725][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2024.02.28-18.34.45:882][441]LogPlayLevel: Display: Destroying online subsystem :Context_168
+[2024.02.28-18.34.47:922][498]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.28-18.34.47:940][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.28-18.34.47:941][498]PIE: New page: PIE session: GameLevel (Feb 28, 2024, 6:34:47 AM)
+[2024.02.28-18.34.47:944][498]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameLevel
+[2024.02.28-18.34.48:094][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.149813s)
+[2024.02.28-18.34.48:094][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevel.GameLevel to /Game/UEDPIE_0_GameLevel.GameLevel (0.149931s)
+[2024.02.28-18.34.48:161][498]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2024.02.28-18.34.48:169][498]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-18.34.48:169][498]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.28-18.34.48:170][498]LogAIModule: Creating AISystem for world GameLevel
+[2024.02.28-18.34.48:171][498]LogPlayLevel: PIE: World Init took: (0.002332s)
+[2024.02.28-18.34.48:171][498]LogAudio: Display: Creating Audio Device:                 Id: 115, Scope: Unique, Realtime: True
+[2024.02.28-18.34.48:171][498]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.28-18.34.48:171][498]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.28-18.34.48:171][498]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.28-18.34.48:171][498]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.28-18.34.48:171][498]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.28-18.34.48:172][498]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.28-18.34.48:172][498]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.28-18.34.48:172][498]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.28-18.34.48:172][498]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.28-18.34.48:172][498]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.28-18.34.48:172][498]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.28-18.34.48:176][498]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.28-18.34.48:270][498]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH700N)
+[2024.02.28-18.34.48:270][498]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.28-18.34.48:270][498]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.28-18.34.48:270][498]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.28-18.34.48:271][498]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=115
+[2024.02.28-18.34.48:271][498]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=115
+[2024.02.28-18.34.48:275][498]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=115
+[2024.02.28-18.34.48:275][498]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=115
+[2024.02.28-18.34.48:275][498]LogInit: FAudioDevice initialized with ID 115.
+[2024.02.28-18.34.48:275][498]LogAudio: Display: Audio Device (ID: 115) registered with world 'GameLevel'.
+[2024.02.28-18.34.48:275][498]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 115
+[2024.02.28-18.34.48:283][498]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.28-18.34.48:369][498]LogWorld: Bringing World /Game/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2024.02.28-12.34.48
+[2024.02.28-18.34.48:375][498]LogWorld: Bringing up level for play took: 0.091204
+[2024.02.28-18.34.48:379][498]LogOnline: OSS: Created online subsystem instance for: :Context_169
+[2024.02.28-18.34.48:390][498]PIE: Server logged in
+[2024.02.28-18.34.48:391][498]PIE: Play in editor total start time 0.451 seconds.
+[2024.02.28-18.34.48:572][499]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.086652 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.02.28-18.34.53:123][629]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_4] Collectable
+[2024.02.28-18.34.55:365][695]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.28-18.34.55:365][695]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.28-18.34.56:745][723]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.28-18.34.56:745][723]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.28-18.35.02:555][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-18.35.02:555][888]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameLevel
+[2024.02.28-18.35.02:557][888]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.28-18.35.02:572][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-18.35.02:592][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.28-18.35.02:605][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-18.35.02:674][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-18.35.02:682][888]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 115
+[2024.02.28-18.35.02:682][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=115
+[2024.02.28-18.35.02:699][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=115
+[2024.02.28-18.35.02:761][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2024.02.28-18.35.02:912][889]LogPlayLevel: Display: Destroying online subsystem :Context_169
+[2024.02.28-18.36.08:584][316]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2024.02.28-18.36.08:852][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.02.28-18.36.09:958][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.28-18.36.10:125][316]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.02.28-18.36.10:127][316]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/BP_LearningKit_PlayerCharacter1DD24A7F4FB4BD5D508030BE89CED162.tmp' to '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.02.28-18.36.10:148][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 22.6 sec)
+[2024.02.28-18.36.10:150][316]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2024.02.28-18.36.10:150][316]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.02.28-18.36.19:621][515]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2024.02.28-18.36.19:988][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2024.02.28-18.36.21:010][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.28-18.36.21:157][515]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.02.28-18.36.21:158][515]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/BP_LearningKit_PlayerCharacterA665650147E02C9429B6559E0CB99EEE.tmp' to '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.02.28-18.36.21:177][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 22.8 sec)
+[2024.02.28-18.36.21:182][515]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2024.02.28-18.36.21:182][515]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.02.28-18.36.22:902][556]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.28-18.36.22:923][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.28-18.36.22:924][556]PIE: New page: PIE session: GameLevel (Feb 28, 2024, 6:36:22 AM)
+[2024.02.28-18.36.22:926][556]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameLevel
+[2024.02.28-18.36.23:079][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152164s)
+[2024.02.28-18.36.23:079][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevel.GameLevel to /Game/UEDPIE_0_GameLevel.GameLevel (0.152273s)
+[2024.02.28-18.36.23:154][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2024.02.28-18.36.23:168][556]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-18.36.23:168][556]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.28-18.36.23:169][556]LogAIModule: Creating AISystem for world GameLevel
+[2024.02.28-18.36.23:170][556]LogPlayLevel: PIE: World Init took: (0.002254s)
+[2024.02.28-18.36.23:170][556]LogAudio: Display: Creating Audio Device:                 Id: 116, Scope: Unique, Realtime: True
+[2024.02.28-18.36.23:170][556]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.28-18.36.23:170][556]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.28-18.36.23:170][556]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.28-18.36.23:170][556]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.28-18.36.23:170][556]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.28-18.36.23:170][556]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.28-18.36.23:170][556]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.28-18.36.23:170][556]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.28-18.36.23:171][556]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.28-18.36.23:171][556]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.28-18.36.23:171][556]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.28-18.36.23:177][556]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.28-18.36.23:266][556]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH700N)
+[2024.02.28-18.36.23:267][556]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.28-18.36.23:267][556]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.28-18.36.23:267][556]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.28-18.36.23:268][556]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=116
+[2024.02.28-18.36.23:268][556]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=116
+[2024.02.28-18.36.23:272][556]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=116
+[2024.02.28-18.36.23:272][556]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=116
+[2024.02.28-18.36.23:274][556]LogInit: FAudioDevice initialized with ID 116.
+[2024.02.28-18.36.23:274][556]LogAudio: Display: Audio Device (ID: 116) registered with world 'GameLevel'.
+[2024.02.28-18.36.23:274][556]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 116
+[2024.02.28-18.36.23:286][556]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.28-18.36.23:371][556]LogWorld: Bringing World /Game/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2024.02.28-12.36.23
+[2024.02.28-18.36.23:375][556]LogWorld: Bringing up level for play took: 0.089276
+[2024.02.28-18.36.23:382][556]LogOnline: OSS: Created online subsystem instance for: :Context_170
+[2024.02.28-18.36.23:394][556]PIE: Server logged in
+[2024.02.28-18.36.23:395][556]PIE: Play in editor total start time 0.472 seconds.
+[2024.02.28-18.36.23:607][557]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.088564 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.02.28-18.36.27:159][679]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_4] Collectable
+[2024.02.28-18.36.28:604][724]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_2] Power Up
+[2024.02.28-18.36.35:106][915]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_1] Collectable
+[2024.02.28-18.36.37:043][977]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_2] Collectable
+[2024.02.28-18.36.41:119][103]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_979 via property K2Node_Event_OtherActor, but Fireball_C_979 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.36.41:120][103]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.36.41:882][125]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_7] Collectable
+[2024.02.28-18.36.45:708][247]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_9] Collectable
+[2024.02.28-18.36.49:808][378]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_11] Collectable
+[2024.02.28-18.36.55:856][577]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_13] Collectable
+[2024.02.28-18.37.05:076][825]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_6] Power Up
+[2024.02.28-18.37.05:794][843]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_5] Power Up
+[2024.02.28-18.37.06:380][860]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_4] Power Up
+[2024.02.28-18.37.06:380][860]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_7] Power Up
+[2024.02.28-18.37.06:862][874]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_3] Power Up
+[2024.02.28-18.37.35:769][669]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_4089 via property K2Node_Event_OtherActor, but Fireball_C_4089 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.37.35:769][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.37.54:041][203]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_5129 via property K2Node_Event_OtherActor, but Fireball_C_5129 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.37.54:041][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.37.54:359][212]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_5145 via property K2Node_Event_OtherActor, but Fireball_C_5145 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.37.54:359][212]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.37.55:030][231]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.28-18.37.55:030][231]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.28-18.37.55:611][247]LogScript: Warning: Script Msg: The widget 'Restart_Widget_C_0' was already added to the screen.
+[2024.02.28-18.37.55:612][247]LogScript: Warning: Script Msg called by: BP_LearningKit_PlayerCharacter_C /Game/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_LearningKit_PlayerCharacter_C_0
+[2024.02.28-18.37.55:612][247]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_0 via property Music, but AudioComponent_0 is not valid (pending kill or garbage)". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.37.55:612][247]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_5192 via property K2Node_Event_OtherActor, but Fireball_C_5192 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.37.55:612][247]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.37.57:604][310]LogScript: Warning: Script Msg: The widget 'Restart_Widget_C_0' was already added to the screen.
+[2024.02.28-18.37.57:605][310]LogScript: Warning: Script Msg called by: BP_LearningKit_PlayerCharacter_C /Game/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_LearningKit_PlayerCharacter_C_0
+[2024.02.28-18.37.57:605][310]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_0 via property Music, but AudioComponent_0 is not valid (pending kill or garbage)". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.37.57:606][310]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_5299 via property K2Node_Event_OtherActor, but Fireball_C_5299 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.37.57:606][310]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.37.57:897][320]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.28-18.37.57:897][320]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.28-18.37.57:898][320]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_0 via property Music, but AudioComponent_0 is not valid (pending kill or garbage)". Node:  Play Graph:  RestartGame Function:  Restart Game Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.38.04:555][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-18.38.04:555][518]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameLevel
+[2024.02.28-18.38.04:557][518]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.28-18.38.04:570][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-18.38.04:591][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.28-18.38.04:602][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-18.38.04:758][518]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.28-18.38.04:759][518]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 116
+[2024.02.28-18.38.04:759][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=116
+[2024.02.28-18.38.04:766][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=116
+[2024.02.28-18.38.04:792][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-18.38.04:820][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.02.28-18.38.05:152][519]LogPlayLevel: Display: Destroying online subsystem :Context_170
+[2024.02.28-18.38.13:640][754]LogSlate: Window 'Message Log' being destroyed
+[2024.02.28-18.38.13:712][754]LogSlate: Window 'Message Log' being destroyed
+[2024.02.28-18.40.34:596][237]LogUObjectHash: Compacting FUObjectHashTables data took  11.03ms
+[2024.02.28-18.40.35:425][237]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GameLevel_Auto5
+[2024.02.28-18.40.35:442][237]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/GameLevel_Auto516603AD74F17F078501E92A28065B53E.tmp' to '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/Autosaves/Game/GameLevel_Auto5.umap'
+[2024.02.28-18.40.35:453][237]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/Autosaves/Game/GameLevel_Auto5.umap is in the /Temp path, will not scan.
+[2024.02.28-18.40.35:454][237]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameLevel' took 1.342
+[2024.02.28-18.40.35:454][237]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.342
+[2024.02.28-18.49.35:471][530]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.28-18.49.35:566][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.28-18.49.35:581][530]PIE: New page: PIE session: GameLevel (Feb 28, 2024, 6:49:35 AM)
+[2024.02.28-18.49.35:607][530]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameLevel
+[2024.02.28-18.49.35:978][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.368151s)
+[2024.02.28-18.49.35:978][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevel.GameLevel to /Game/UEDPIE_0_GameLevel.GameLevel (0.371058s)
+[2024.02.28-18.49.36:066][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2024.02.28-18.49.36:094][530]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-18.49.36:106][530]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.28-18.49.36:136][530]LogAIModule: Creating AISystem for world GameLevel
+[2024.02.28-18.49.36:177][530]LogPlayLevel: PIE: World Init took: (0.096345s)
+[2024.02.28-18.49.36:184][530]LogAudio: Display: Creating Audio Device:                 Id: 117, Scope: Unique, Realtime: True
+[2024.02.28-18.49.36:187][530]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.28-18.49.36:187][530]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.28-18.49.36:187][530]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.28-18.49.36:187][530]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.28-18.49.36:187][530]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.28-18.49.36:187][530]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.28-18.49.36:187][530]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.28-18.49.36:187][530]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.28-18.49.36:198][530]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.28-18.49.36:198][530]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.28-18.49.36:198][530]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.28-18.49.36:213][530]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.28-18.49.36:327][530]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH700N)
+[2024.02.28-18.49.36:334][530]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.28-18.49.36:335][530]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.28-18.49.36:335][530]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.28-18.49.36:345][530]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=117
+[2024.02.28-18.49.36:345][530]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=117
+[2024.02.28-18.49.36:350][530]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=117
+[2024.02.28-18.49.36:350][530]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=117
+[2024.02.28-18.49.36:354][530]LogInit: FAudioDevice initialized with ID 117.
+[2024.02.28-18.49.36:354][530]LogAudio: Display: Audio Device (ID: 117) registered with world 'GameLevel'.
+[2024.02.28-18.49.36:355][530]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 117
+[2024.02.28-18.49.36:418][530]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.28-18.49.36:732][530]LogWorld: Bringing World /Game/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2024.02.28-12.49.36
+[2024.02.28-18.49.36:766][530]LogWorld: Bringing up level for play took: 0.341241
+[2024.02.28-18.49.36:795][530]LogOnline: OSS: Created online subsystem instance for: :Context_171
+[2024.02.28-18.49.36:931][530]PIE: Server logged in
+[2024.02.28-18.49.36:935][530]PIE: Play in editor total start time 1.392 seconds.
+[2024.02.28-18.49.45:193][691]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_1] Power Up
+[2024.02.28-18.50.02:333][ 88]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_1343 via property K2Node_Event_OtherActor, but Fireball_C_1343 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.50.02:334][ 88]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-18.50.04:796][145]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_5] Collectable
+[2024.02.28-18.50.06:654][191]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_4] Collectable
+[2024.02.28-18.50.11:871][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-18.50.11:871][312]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameLevel
+[2024.02.28-18.50.11:885][312]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.28-18.50.11:903][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-18.50.12:037][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.28-18.50.12:060][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-18.50.12:171][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-18.50.12:175][312]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 117
+[2024.02.28-18.50.12:176][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=117
+[2024.02.28-18.50.12:181][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=117
+[2024.02.28-18.50.12:263][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.02.28-18.50.12:771][313]LogPlayLevel: Display: Destroying online subsystem :Context_171
+[2024.02.28-18.59.10:590][ 74]LogSlate: Window 'Message Log' being destroyed
+[2024.02.28-18.59.10:658][ 74]LogSlate: Window 'Message Log' being destroyed
+[2024.02.28-18.59.15:467][202]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP
+[2024.02.28-18.59.15:493][202]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-18.59.15:494][202]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.28-18.59.26:809][422]BlueprintLog: New page: Compile Collectable_Pickup_BP
+[2024.02.28-18.59.27:256][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2024.02.28-18.59.27:583][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.28-18.59.27:694][422]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP
+[2024.02.28-18.59.27:695][422]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/Collectable_Pickup_BPAE7932CE467150BFA14A7EAE95BD2E33.tmp' to '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset'
+[2024.02.28-18.59.27:725][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 22.9 sec)
+[2024.02.28-18.59.27:748][422]AssetCheck: New page: Asset Save: Collectable_Pickup_BP
+[2024.02.28-18.59.27:748][422]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.Collectable_Pickup_BP
+[2024.02.28-19.00.33:094][987]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.28-19.00.33:113][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.28-19.00.33:113][987]PIE: New page: PIE session: GameLevel (Feb 28, 2024, 7:00:33 AM)
+[2024.02.28-19.00.33:122][987]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameLevel
+[2024.02.28-19.00.33:269][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.147051s)
+[2024.02.28-19.00.33:269][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevel.GameLevel to /Game/UEDPIE_0_GameLevel.GameLevel (0.147177s)
+[2024.02.28-19.00.33:339][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.02.28-19.00.33:348][987]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-19.00.33:349][987]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.28-19.00.33:350][987]LogAIModule: Creating AISystem for world GameLevel
+[2024.02.28-19.00.33:350][987]LogPlayLevel: PIE: World Init took: (0.002780s)
+[2024.02.28-19.00.33:351][987]LogAudio: Display: Creating Audio Device:                 Id: 118, Scope: Unique, Realtime: True
+[2024.02.28-19.00.33:351][987]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.28-19.00.33:351][987]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.28-19.00.33:351][987]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.28-19.00.33:351][987]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.28-19.00.33:351][987]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.28-19.00.33:351][987]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.28-19.00.33:351][987]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.28-19.00.33:351][987]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.28-19.00.33:352][987]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.28-19.00.33:352][987]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.28-19.00.33:352][987]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.28-19.00.33:355][987]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.28-19.00.33:471][987]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH700N)
+[2024.02.28-19.00.33:472][987]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.28-19.00.33:472][987]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.28-19.00.33:472][987]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.28-19.00.33:474][987]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=118
+[2024.02.28-19.00.33:474][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=118
+[2024.02.28-19.00.33:478][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=118
+[2024.02.28-19.00.33:478][987]LogInit: FAudioDevice initialized with ID 118.
+[2024.02.28-19.00.33:478][987]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=118
+[2024.02.28-19.00.33:478][987]LogAudio: Display: Audio Device (ID: 118) registered with world 'GameLevel'.
+[2024.02.28-19.00.33:478][987]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 118
+[2024.02.28-19.00.33:488][987]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.28-19.00.33:639][987]LogWorld: Bringing World /Game/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2024.02.28-13.00.33
+[2024.02.28-19.00.33:647][987]LogWorld: Bringing up level for play took: 0.158639
+[2024.02.28-19.00.33:656][987]LogOnline: OSS: Created online subsystem instance for: :Context_173
+[2024.02.28-19.00.33:673][987]PIE: Server logged in
+[2024.02.28-19.00.33:674][987]PIE: Play in editor total start time 0.562 seconds.
+[2024.02.28-19.00.33:765][988]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.087339 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.02.28-19.00.38:945][124]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_1] Power Up
+[2024.02.28-19.01.01:924][811]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_1516 via property K2Node_Event_OtherActor, but Fireball_C_1516 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.01.01:924][811]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.01.06:939][968]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_1806 via property K2Node_Event_OtherActor, but Fireball_C_1806 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.01.06:939][968]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.01.06:965][969]LogCharacterMovement: BP_Pursuer_C_1 is stuck and failed to move! Velocity: X=424.33 Y=-131.83 Z=0.00 Location: X=1312.66 Y=2877.90 Z=102.99 Normal: X=-0.35 Y=0.93 Z=0.00 PenetrationDepth:0.182 Actor:WizardSM_BP_C_397 Component:MagicStaff BoneName:None (0 other events since notify)
+[2024.02.28-19.01.09:922][ 62]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_4] Collectable
+[2024.02.28-19.01.12:541][143]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_5] Collectable
+[2024.02.28-19.01.14:031][187]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_0] Power Up
+[2024.02.28-19.01.14:161][191]LogCharacterMovement: BP_Pursuer_C_1 is stuck and failed to move! Velocity: X=-368.36 Y=-129.62 Z=0.00 Location: X=1453.99 Y=2917.78 Z=101.84 Normal: X=0.98 Y=0.03 Z=-0.19 PenetrationDepth:2.897 Actor:WizardSM_BP_C_397 Component:SkeletalMeshComponent0 BoneName:head (0 other events since notify)
+[2024.02.28-19.01.15:850][237]LogCharacterMovement: BP_Pursuer_C_1 is stuck and failed to move! Velocity: X=-258.19 Y=-135.36 Z=0.00 Location: X=1441.93 Y=2921.56 Z=101.87 Normal: X=0.97 Y=0.12 Z=-0.21 PenetrationDepth:5.424 Actor:WizardSM_BP_C_397 Component:SkeletalMeshComponent0 BoneName:head (3 other events since notify)
+[2024.02.28-19.01.17:167][277]LogCharacterMovement: BP_Pursuer_C_1 is stuck and failed to move! Velocity: X=-275.64 Y=-154.24 Z=0.00 Location: X=1441.43 Y=2922.66 Z=101.88 Normal: X=0.97 Y=0.16 Z=-0.19 PenetrationDepth:1.006 Actor:WizardSM_BP_C_397 Component:SkeletalMeshComponent0 BoneName:head (14 other events since notify)
+[2024.02.28-19.01.18:876][328]LogCharacterMovement: BP_Pursuer_C_1 is stuck and failed to move! Velocity: X=-466.57 Y=-159.80 Z=0.00 Location: X=1442.60 Y=2918.91 Z=101.88 Normal: X=0.97 Y=0.04 Z=-0.24 PenetrationDepth:13.206 Actor:WizardSM_BP_C_397 Component:SkeletalMeshComponent0 BoneName:head (4 other events since notify)
+[2024.02.28-19.01.20:585][381]LogCharacterMovement: BP_Pursuer_C_1 is stuck and failed to move! Velocity: X=-308.26 Y=-197.21 Z=0.00 Location: X=1415.45 Y=2925.64 Z=103.83 Normal: X=-0.97 Y=0.23 Z=0.00 PenetrationDepth:15.526 Actor:WizardSM_BP_C_397 Component:MagicStaff BoneName:None (17 other events since notify)
+[2024.02.28-19.01.21:607][411]LogCharacterMovement: BP_Pursuer_C_1 is stuck and failed to move! Velocity: X=-275.94 Y=-113.37 Z=0.00 Location: X=1446.81 Y=2922.68 Z=101.85 Normal: X=0.97 Y=0.00 Z=-0.24 PenetrationDepth:19.660 Actor:WizardSM_BP_C_397 Component:SkeletalMeshComponent0 BoneName:head (13 other events since notify)
+[2024.02.28-19.01.25:040][515]LogCharacterMovement: BP_Pursuer_C_1 is stuck and failed to move! Velocity: X=-268.94 Y=-154.78 Z=0.00 Location: X=1440.27 Y=2922.42 Z=101.93 Normal: X=0.97 Y=0.12 Z=-0.21 PenetrationDepth:6.061 Actor:WizardSM_BP_C_397 Component:SkeletalMeshComponent0 BoneName:head (13 other events since notify)
+[2024.02.28-19.01.26:425][557]LogCharacterMovement: BP_Pursuer_C_1 is stuck and failed to move! Velocity: X=-411.37 Y=-134.13 Z=0.00 Location: X=1446.34 Y=2917.02 Z=101.83 Normal: X=0.97 Y=0.03 Z=-0.22 PenetrationDepth:9.924 Actor:WizardSM_BP_C_397 Component:SkeletalMeshComponent0 BoneName:head (18 other events since notify)
+[2024.02.28-19.01.27:502][588]LogCharacterMovement: BP_Pursuer_C_1 is stuck and failed to move! Velocity: X=-110.70 Y=-57.69 Z=0.00 Location: X=1447.39 Y=2925.21 Z=101.82 Normal: X=0.98 Y=0.11 Z=-0.19 PenetrationDepth:1.005 Actor:WizardSM_BP_C_397 Component:SkeletalMeshComponent0 BoneName:head (0 other events since notify)
+[2024.02.28-19.01.30:828][691]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_2] Power Up
+[2024.02.28-19.01.43:719][ 92]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_1] Collectable
+[2024.02.28-19.01.45:136][135]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_2] Collectable
+[2024.02.28-19.01.51:664][343]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_7] Collectable
+[2024.02.28-19.01.57:175][516]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_9] Collectable
+[2024.02.28-19.01.59:763][599]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_10] Collectable
+[2024.02.28-19.02.04:037][737]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_11] Collectable
+[2024.02.28-19.02.09:884][931]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_12] Collectable
+[2024.02.28-19.02.19:275][243]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_13] Collectable
+[2024.02.28-19.02.28:742][549]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_6] Power Up
+[2024.02.28-19.02.29:506][571]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_5] Power Up
+[2024.02.28-19.02.30:517][603]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_7] Power Up
+[2024.02.28-19.02.30:518][603]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_4] Power Up
+[2024.02.28-19.02.30:976][618]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_3] Power Up
+[2024.02.28-19.02.37:458][793]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_7031 via property K2Node_Event_OtherActor, but Fireball_C_7031 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.02.37:458][793]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.02.42:575][925]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_7373 via property K2Node_Event_OtherActor, but Fireball_C_7373 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.02.42:575][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.03.02:155][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-19.03.02:155][498]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameLevel
+[2024.02.28-19.03.02:156][498]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.28-19.03.02:168][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-19.03.02:228][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.28-19.03.02:237][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-19.03.02:312][498]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.28-19.03.02:318][498]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 118
+[2024.02.28-19.03.02:318][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=118
+[2024.02.28-19.03.02:325][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=118
+[2024.02.28-19.03.02:332][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-19.03.02:365][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.02.28-19.03.02:695][499]LogPlayLevel: Display: Destroying online subsystem :Context_173
+[2024.02.28-19.03.04:919][558]LogSlate: Window 'Message Log' being destroyed
+[2024.02.28-19.03.04:974][558]LogSlate: Window 'Message Log' being destroyed
+[2024.02.28-19.03.15:817][835]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.28-19.03.15:832][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.28-19.03.15:832][835]PIE: New page: PIE session: GameLevel (Feb 28, 2024, 7:03:15 AM)
+[2024.02.28-19.03.15:835][835]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameLevel
+[2024.02.28-19.03.15:969][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132884s)
+[2024.02.28-19.03.15:969][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevel.GameLevel to /Game/UEDPIE_0_GameLevel.GameLevel (0.132999s)
+[2024.02.28-19.03.16:023][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.02.28-19.03.16:030][835]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-19.03.16:030][835]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.28-19.03.16:031][835]LogAIModule: Creating AISystem for world GameLevel
+[2024.02.28-19.03.16:032][835]LogPlayLevel: PIE: World Init took: (0.001803s)
+[2024.02.28-19.03.16:032][835]LogAudio: Display: Creating Audio Device:                 Id: 119, Scope: Unique, Realtime: True
+[2024.02.28-19.03.16:032][835]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.28-19.03.16:032][835]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.28-19.03.16:032][835]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.28-19.03.16:032][835]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.28-19.03.16:032][835]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.28-19.03.16:032][835]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.28-19.03.16:032][835]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.28-19.03.16:032][835]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.28-19.03.16:033][835]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.28-19.03.16:033][835]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.28-19.03.16:033][835]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.28-19.03.16:038][835]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.28-19.03.16:111][835]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH700N)
+[2024.02.28-19.03.16:111][835]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.28-19.03.16:111][835]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.28-19.03.16:111][835]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.28-19.03.16:112][835]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=119
+[2024.02.28-19.03.16:112][835]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=119
+[2024.02.28-19.03.16:116][835]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=119
+[2024.02.28-19.03.16:116][835]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=119
+[2024.02.28-19.03.16:116][835]LogInit: FAudioDevice initialized with ID 119.
+[2024.02.28-19.03.16:116][835]LogAudio: Display: Audio Device (ID: 119) registered with world 'GameLevel'.
+[2024.02.28-19.03.16:116][835]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 119
+[2024.02.28-19.03.16:125][835]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.28-19.03.16:207][835]LogWorld: Bringing World /Game/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2024.02.28-13.03.16
+[2024.02.28-19.03.16:213][835]LogWorld: Bringing up level for play took: 0.087907
+[2024.02.28-19.03.16:217][835]LogOnline: OSS: Created online subsystem instance for: :Context_174
+[2024.02.28-19.03.16:227][835]PIE: Server logged in
+[2024.02.28-19.03.16:228][835]PIE: Play in editor total start time 0.397 seconds.
+[2024.02.28-19.03.16:405][836]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.087523 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.02.28-19.03.23:540][ 64]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_5] Collectable
+[2024.02.28-19.03.24:659][100]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_4] Collectable
+[2024.02.28-19.03.32:900][346]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_1] Power Up
+[2024.02.28-19.03.34:404][392]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_943 via property K2Node_Event_OtherActor, but Fireball_C_943 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.03.34:404][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.03.36:572][457]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_1056 via property K2Node_Event_OtherActor, but Fireball_C_1056 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.03.36:572][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.03.38:617][519]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.28-19.03.38:618][519]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.28-19.03.38:619][519]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_1171 via property K2Node_Event_OtherActor, but Fireball_C_1171 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.03.38:619][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.03.47:056][776]LogScript: Warning: Script Msg: The widget 'Restart_Widget_C_0' was already added to the screen.
+[2024.02.28-19.03.47:056][776]LogScript: Warning: Script Msg called by: BP_LearningKit_PlayerCharacter_C /Game/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_LearningKit_PlayerCharacter_C_0
+[2024.02.28-19.03.47:056][776]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_0 via property Music, but AudioComponent_0 is not valid (pending kill or garbage)". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.03.47:056][776]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_1656 via property K2Node_Event_OtherActor, but Fireball_C_1656 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.03.47:056][776]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.03.48:159][809]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.28-19.03.48:159][809]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.28-19.03.48:160][809]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_0 via property Music, but AudioComponent_0 is not valid (pending kill or garbage)". Node:  Play Graph:  RestartGame Function:  Restart Game Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.03.57:615][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-19.03.57:615][ 96]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameLevel
+[2024.02.28-19.03.57:617][ 96]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.28-19.03.57:630][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-19.03.57:693][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.28-19.03.57:709][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-19.03.57:764][ 96]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.28-19.03.57:771][ 96]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 119
+[2024.02.28-19.03.57:771][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=119
+[2024.02.28-19.03.57:774][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=119
+[2024.02.28-19.03.57:785][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-19.03.57:858][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.02.28-19.03.58:204][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_174
+[2024.02.28-19.05.33:418][144]LogDerivedDataCache: C:/Users/andre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.930 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3642 files in 5373 folders with total size 161 MiB.
+[2024.02.28-19.05.54:568][624]BlueprintLog: New page: Compile BP_LearningKit_PlayerCharacter
+[2024.02.28-19.05.54:837][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.02.28-19.05.55:830][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.28-19.05.56:254][624]LogSavePackage: Moving output files for package: /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter
+[2024.02.28-19.05.56:255][624]LogSavePackage: Moving '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Saved/BP_LearningKit_PlayerCharacterFF866A2F4C496787977A9FBD78E7AF01.tmp' to '../../../../../../Users/andre/Documents/Unreal Projects/UnrealLearningKit5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset'
+[2024.02.28-19.05.56:272][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 443 ms (total: 23.4 sec)
+[2024.02.28-19.05.56:281][624]AssetCheck: New page: Asset Save: BP_LearningKit_PlayerCharacter
+[2024.02.28-19.05.56:281][624]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2024.02.28-19.06.05:698][761]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.28-19.06.05:729][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.28-19.06.05:729][761]PIE: New page: PIE session: GameLevel (Feb 28, 2024, 7:06:05 AM)
+[2024.02.28-19.06.05:755][761]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameLevel
+[2024.02.28-19.06.05:919][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.163475s)
+[2024.02.28-19.06.05:919][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevel.GameLevel to /Game/UEDPIE_0_GameLevel.GameLevel (0.163598s)
+[2024.02.28-19.06.06:004][761]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2024.02.28-19.06.06:024][761]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-19.06.06:024][761]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.28-19.06.06:025][761]LogAIModule: Creating AISystem for world GameLevel
+[2024.02.28-19.06.06:026][761]LogPlayLevel: PIE: World Init took: (0.001964s)
+[2024.02.28-19.06.06:026][761]LogAudio: Display: Creating Audio Device:                 Id: 120, Scope: Unique, Realtime: True
+[2024.02.28-19.06.06:026][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.28-19.06.06:026][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.28-19.06.06:026][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.28-19.06.06:026][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.28-19.06.06:026][761]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.28-19.06.06:026][761]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.28-19.06.06:026][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.28-19.06.06:027][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.28-19.06.06:027][761]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.28-19.06.06:027][761]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.28-19.06.06:027][761]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.28-19.06.06:032][761]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.28-19.06.06:179][761]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH700N)
+[2024.02.28-19.06.06:180][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.28-19.06.06:180][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.28-19.06.06:180][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.28-19.06.06:182][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=120
+[2024.02.28-19.06.06:182][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=120
+[2024.02.28-19.06.06:187][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=120
+[2024.02.28-19.06.06:187][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=120
+[2024.02.28-19.06.06:187][761]LogInit: FAudioDevice initialized with ID 120.
+[2024.02.28-19.06.06:187][761]LogAudio: Display: Audio Device (ID: 120) registered with world 'GameLevel'.
+[2024.02.28-19.06.06:187][761]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 120
+[2024.02.28-19.06.06:197][761]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.28-19.06.06:359][761]LogWorld: Bringing World /Game/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2024.02.28-13.06.06
+[2024.02.28-19.06.06:366][761]LogWorld: Bringing up level for play took: 0.167616
+[2024.02.28-19.06.06:371][761]LogOnline: OSS: Created online subsystem instance for: :Context_175
+[2024.02.28-19.06.06:382][761]PIE: Server logged in
+[2024.02.28-19.06.06:384][761]PIE: Play in editor total start time 0.655 seconds.
+[2024.02.28-19.06.06:570][762]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.091183 > MaxSimulationTimeStep (0.050) for 'BP_LearningKit_PlayerCharacter_C_0', movement 'Walking'
+[2024.02.28-19.06.13:761][961]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_1] Power Up
+[2024.02.28-19.06.17:635][ 62]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_537 via property K2Node_Event_OtherActor, but Fireball_C_537 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.06.17:635][ 62]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.06.20:196][132]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_677 via property K2Node_Event_OtherActor, but Fireball_C_677 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.06.20:196][132]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.06.29:239][376]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_1200 via property K2Node_Event_OtherActor, but Fireball_C_1200 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.06.29:239][376]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.06.30:765][419]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_1283 via property K2Node_Event_OtherActor, but Fireball_C_1283 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.06.30:765][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.06.34:234][515]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_1485 via property K2Node_Event_OtherActor, but Fireball_C_1485 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.06.34:234][515]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.06.35:737][557]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.28-19.06.35:738][557]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.28-19.06.35:738][557]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_1578 via property K2Node_Event_OtherActor, but Fireball_C_1578 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.06.35:738][557]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.06.40:719][695]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.28-19.06.40:719][695]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.28-19.06.55:988][114]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_4] Collectable
+[2024.02.28-19.07.02:097][278]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_0] Power Up
+[2024.02.28-19.07.15:819][671]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_5] Collectable
+[2024.02.28-19.07.28:666][ 29]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_4637 via property K2Node_Event_OtherActor, but Fireball_C_4637 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.07.28:666][ 29]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.07.33:011][150]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_2] Power Up
+[2024.02.28-19.07.41:750][392]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_1] Collectable
+[2024.02.28-19.07.44:050][458]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_2] Collectable
+[2024.02.28-19.07.51:841][667]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_7] Collectable
+[2024.02.28-19.08.00:991][920]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_9] Collectable
+[2024.02.28-19.08.04:374][ 14]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_10] Collectable
+[2024.02.28-19.08.08:225][122]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_11] Collectable
+[2024.02.28-19.08.14:663][298]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_7329 via property K2Node_Event_OtherActor, but Fireball_C_7329 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.08.14:663][298]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.08.20:504][459]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_12] Collectable
+[2024.02.28-19.08.26:244][617]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_13] Collectable
+[2024.02.28-19.08.35:638][872]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_6] Power Up
+[2024.02.28-19.08.36:467][894]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_5] Power Up
+[2024.02.28-19.08.37:071][910]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_4] Power Up
+[2024.02.28-19.08.37:071][910]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_7] Power Up
+[2024.02.28-19.08.37:559][923]LogBlueprintUserMessages: [PowerUp_Pickup_BP_Child_C_3] Power Up
+[2024.02.28-19.08.50:008][200]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_9431 via property K2Node_Event_OtherActor, but Fireball_C_9431 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.08.50:008][200]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.08.50:008][200]LogScript: Warning: Attempted to access Fireball_C_9431 via property CallFunc_FinishSpawningActor_ReturnValue, but Fireball_C_9431 is not valid (pending kill or garbage)
+	Mortar_C /Game/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.Mortar_C_20
+	Function /Game/LearningKit_Games/Blueprints/Interactables/Mortar.Mortar_C:ExecuteUbergraph_Mortar:02FF
+[2024.02.28-19.08.50:011][200]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_9431 via property CallFunc_FinishSpawningActor_ReturnValue, but Fireball_C_9431 is not valid (pending kill or garbage)". Node:  Set Velocity in Local Space Graph:  EventGraph Function:  Execute Ubergraph Mortar Blueprint:  Mortar
+[2024.02.28-19.08.50:011][200]LogScript: Warning: Accessed None
+	Mortar_C /Game/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.Mortar_C_20
+	Function /Game/LearningKit_Games/Blueprints/Interactables/Mortar.Mortar_C:ExecuteUbergraph_Mortar:0314
+[2024.02.28-19.08.50:011][200]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity in Local Space Graph:  EventGraph Function:  Execute Ubergraph Mortar Blueprint:  Mortar
+[2024.02.28-19.08.50:237][205]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_9450 via property K2Node_Event_OtherActor, but Fireball_C_9450 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.08.50:237][205]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.08.50:237][205]LogScript: Warning: Attempted to access Fireball_C_9450 via property CallFunc_FinishSpawningActor_ReturnValue, but Fireball_C_9450 is not valid (pending kill or garbage)
+	Mortar_C /Game/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.Mortar_C_20
+	Function /Game/LearningKit_Games/Blueprints/Interactables/Mortar.Mortar_C:ExecuteUbergraph_Mortar:02FF
+[2024.02.28-19.08.50:237][205]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_9450 via property CallFunc_FinishSpawningActor_ReturnValue, but Fireball_C_9450 is not valid (pending kill or garbage)". Node:  Set Velocity in Local Space Graph:  EventGraph Function:  Execute Ubergraph Mortar Blueprint:  Mortar
+[2024.02.28-19.08.50:237][205]LogScript: Warning: Accessed None
+	Mortar_C /Game/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.Mortar_C_20
+	Function /Game/LearningKit_Games/Blueprints/Interactables/Mortar.Mortar_C:ExecuteUbergraph_Mortar:0314
+[2024.02.28-19.08.50:237][205]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity in Local Space Graph:  EventGraph Function:  Execute Ubergraph Mortar Blueprint:  Mortar
+[2024.02.28-19.08.50:281][206]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_9383 via property K2Node_Event_OtherActor, but Fireball_C_9383 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.08.50:281][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.08.50:418][209]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_9460 via property K2Node_Event_OtherActor, but Fireball_C_9460 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.08.50:418][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.08.50:418][209]LogScript: Warning: Attempted to access Fireball_C_9460 via property CallFunc_FinishSpawningActor_ReturnValue, but Fireball_C_9460 is not valid (pending kill or garbage)
+	Mortar_C /Game/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.Mortar_C_20
+	Function /Game/LearningKit_Games/Blueprints/Interactables/Mortar.Mortar_C:ExecuteUbergraph_Mortar:02FF
+[2024.02.28-19.08.50:418][209]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_9460 via property CallFunc_FinishSpawningActor_ReturnValue, but Fireball_C_9460 is not valid (pending kill or garbage)". Node:  Set Velocity in Local Space Graph:  EventGraph Function:  Execute Ubergraph Mortar Blueprint:  Mortar
+[2024.02.28-19.08.50:418][209]LogScript: Warning: Accessed None
+	Mortar_C /Game/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.Mortar_C_20
+	Function /Game/LearningKit_Games/Blueprints/Interactables/Mortar.Mortar_C:ExecuteUbergraph_Mortar:0314
+[2024.02.28-19.08.50:418][209]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity in Local Space Graph:  EventGraph Function:  Execute Ubergraph Mortar Blueprint:  Mortar
+[2024.02.28-19.08.54:842][316]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_9708 via property K2Node_Event_OtherActor, but Fireball_C_9708 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.08.54:842][316]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.09.13:045][760]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.28-19.09.13:045][760]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.28-19.09.13:045][760]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_1 via property Music, but AudioComponent_1 is not valid (pending kill or garbage)". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.09.13:935][781]LogScript: Warning: Script Msg: The widget 'Restart_Widget_C_0' was already added to the screen.
+[2024.02.28-19.09.13:935][781]LogScript: Warning: Script Msg called by: BP_LearningKit_PlayerCharacter_C /Game/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_LearningKit_PlayerCharacter_C_0
+[2024.02.28-19.09.13:935][781]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_1 via property Music, but AudioComponent_1 is not valid (pending kill or garbage)". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.09.14:297][789]LogScript: Warning: Script Msg: The widget 'Restart_Widget_C_0' was already added to the screen.
+[2024.02.28-19.09.14:297][789]LogScript: Warning: Script Msg called by: BP_LearningKit_PlayerCharacter_C /Game/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_LearningKit_PlayerCharacter_C_0
+[2024.02.28-19.09.14:297][789]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_1 via property Music, but AudioComponent_1 is not valid (pending kill or garbage)". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.09.14:298][789]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_10842 via property K2Node_Event_OtherActor, but Fireball_C_10842 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.09.14:298][789]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.09.14:298][789]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_10842 via property CallFunc_FinishSpawningActor_ReturnValue, but Fireball_C_10842 is not valid (pending kill or garbage)". Node:  Set Velocity in Local Space Graph:  EventGraph Function:  Execute Ubergraph Mortar Blueprint:  Mortar
+[2024.02.28-19.09.14:298][789]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set Velocity in Local Space Graph:  EventGraph Function:  Execute Ubergraph Mortar Blueprint:  Mortar
+[2024.02.28-19.09.14:528][796]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.28-19.09.14:528][796]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.28-19.09.16:955][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-19.09.16:955][853]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameLevel
+[2024.02.28-19.09.16:957][853]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.28-19.09.16:972][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-19.09.17:002][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.28-19.09.17:026][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-19.09.17:133][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-19.09.17:162][853]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 120
+[2024.02.28-19.09.17:162][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=120
+[2024.02.28-19.09.17:166][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=120
+[2024.02.28-19.09.17:240][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2024.02.28-19.09.17:564][854]LogPlayLevel: Display: Destroying online subsystem :Context_175
+[2024.02.28-19.09.24:611][  4]Cmd: DELETE
+[2024.02.28-19.09.24:612][  4]Cmd: ACTOR DELETE
+[2024.02.28-19.09.24:730][  4]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.28-19.09.24:810][  4]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2024.02.28-19.09.24:819][  4]LogEditorActor: Deleted 1 Actors (0.164 secs)
+[2024.02.28-19.09.44:255][462]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.28-19.09.46:947][526]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.28-19.09.48:625][566]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.28-19.09.52:330][650]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.28-19.09.54:139][694]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.28-19.09.56:946][756]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.28-19.09.59:411][809]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.02.28-19.10.00:342][831]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.28-19.10.00:364][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.28-19.10.00:364][831]PIE: New page: PIE session: GameLevel (Feb 28, 2024, 7:10:00 AM)
+[2024.02.28-19.10.00:366][831]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GameLevel
+[2024.02.28-19.10.00:555][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.188711s)
+[2024.02.28-19.10.00:555][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevel.GameLevel to /Game/UEDPIE_0_GameLevel.GameLevel (0.188825s)
+[2024.02.28-19.10.00:624][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.02.28-19.10.00:633][831]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.28-19.10.00:633][831]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.28-19.10.00:634][831]LogAIModule: Creating AISystem for world GameLevel
+[2024.02.28-19.10.00:635][831]LogPlayLevel: PIE: World Init took: (0.002250s)
+[2024.02.28-19.10.00:635][831]LogAudio: Display: Creating Audio Device:                 Id: 121, Scope: Unique, Realtime: True
+[2024.02.28-19.10.00:635][831]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.28-19.10.00:635][831]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.28-19.10.00:635][831]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.28-19.10.00:635][831]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.28-19.10.00:635][831]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.28-19.10.00:635][831]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.28-19.10.00:635][831]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.28-19.10.00:635][831]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.28-19.10.00:636][831]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.28-19.10.00:636][831]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.28-19.10.00:636][831]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.28-19.10.00:640][831]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.28-19.10.00:782][831]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-CH700N)
+[2024.02.28-19.10.00:782][831]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.28-19.10.00:782][831]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.28-19.10.00:782][831]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.28-19.10.00:783][831]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=121
+[2024.02.28-19.10.00:783][831]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=121
+[2024.02.28-19.10.00:787][831]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=121
+[2024.02.28-19.10.00:787][831]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=121
+[2024.02.28-19.10.00:787][831]LogInit: FAudioDevice initialized with ID 121.
+[2024.02.28-19.10.00:787][831]LogAudio: Display: Audio Device (ID: 121) registered with world 'GameLevel'.
+[2024.02.28-19.10.00:787][831]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 121
+[2024.02.28-19.10.00:797][831]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.28-19.10.00:962][831]LogWorld: Bringing World /Game/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 60) at 2024.02.28-13.10.00
+[2024.02.28-19.10.00:968][831]LogWorld: Bringing up level for play took: 0.170444
+[2024.02.28-19.10.00:974][831]LogOnline: OSS: Created online subsystem instance for: :Context_176
+[2024.02.28-19.10.00:987][831]PIE: Server logged in
+[2024.02.28-19.10.00:989][831]PIE: Play in editor total start time 0.626 seconds.
+[2024.02.28-19.10.01:179][832]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_14] Collectable
+[2024.02.28-19.10.03:292][881]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_14] Collectable
+[2024.02.28-19.10.03:867][894]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_72 via property K2Node_Event_OtherActor, but Fireball_C_72 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.10.03:867][894]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.10.04:302][904]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_14] Collectable
+[2024.02.28-19.10.13:436][105]LogBlueprintUserMessages: [Collectable_Pickup_BP_C_15] Collectable
+[2024.02.28-19.10.15:667][160]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.28-19.10.15:667][160]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.28-19.10.20:124][291]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.28-19.10.20:124][291]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.28-19.10.24:088][389]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_1228 via property K2Node_Event_OtherActor, but Fireball_C_1228 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.10.24:088][389]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.10.26:246][438]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_1365 via property K2Node_Event_OtherActor, but Fireball_C_1365 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.10.26:246][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.10.32:007][580]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_1647 via property K2Node_Event_OtherActor, but Fireball_C_1647 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.10.32:008][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.10.32:427][591]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_1657 via property K2Node_Event_OtherActor, but Fireball_C_1657 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.10.32:427][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.10.44:269][882]PIE: Error: Blueprint Runtime Error: "Attempted to access Fireball_C_2442 via property K2Node_Event_OtherActor, but Fireball_C_2442 is not valid (pending kill or garbage)". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.10.44:269][882]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.10.45:100][902]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.28-19.10.45:100][902]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2024.02.28-19.10.45:869][921]LogScript: Warning: Script Msg: The widget 'Restart_Widget_C_0' was already added to the screen.
+[2024.02.28-19.10.45:869][921]LogScript: Warning: Script Msg called by: BP_LearningKit_PlayerCharacter_C /Game/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.BP_LearningKit_PlayerCharacter_C_0
+[2024.02.28-19.10.45:869][921]PIE: Error: Blueprint Runtime Error: "Attempted to access AudioComponent_1 via property Music, but AudioComponent_1 is not valid (pending kill or garbage)". Node:  Stop Graph:  EventGraph Function:  Execute Ubergraph BP Learning Kit Player Character Blueprint:  BP_LearningKit_PlayerCharacter
+[2024.02.28-19.10.48:018][983]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.02.28-19.10.48:018][983]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.02.28-19.10.49:386][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-19.10.49:386][ 13]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GameLevel
+[2024.02.28-19.10.49:388][ 13]LogWorld: UWorld::CleanupWorld for GameLevel, bSessionEnded=true, bCleanupResources=true
+[2024.02.28-19.10.49:404][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-19.10.49:427][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.28-19.10.49:450][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.28-19.10.49:546][ 13]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.28-19.10.49:566][ 13]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 121
+[2024.02.28-19.10.49:567][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=121
+[2024.02.28-19.10.49:570][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=121
+[2024.02.28-19.10.49:582][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.28-19.10.49:639][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.02.28-19.10.49:932][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_176
+[2024.02.28-19.12.44:639][833]LogViewport: Scene viewport resized to 1268x892, mode Windowed.
